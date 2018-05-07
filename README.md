@@ -1,3 +1,22 @@
+## Varför markdown?
+
+Jag kan skriva något här nu:
+
+### En numrerad lista:
+
+1. Jag gillar listor
+2. De känns nice
+3. Tre är lagom
+
+### En punktlista:
+
+- Punkt ett
+- Den andra punkten
+- Den tredje punkten
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/OskarWestoo/testsida/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
